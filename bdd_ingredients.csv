@@ -1,0 +1,185 @@
+;Ingredients;Potions_qui_en_contiennent
+0;Actée en épi;"[""Potion d'Actée en épi""]"
+1;Poudre brune;"[""Potion d'Aiguise-Méninges""]"
+2;Bile de tatou;"[""Potion d'Aiguise-Méninges""]"
+3;Épines de porc-épic;"[""Potion d'Aiguise-Méninges""]"
+4;Eau du fleuve Léthé;"[""Potion d'Amnésie""]"
+5;Baies de gui;"[""Potion d'Amnésie"", 'Antidote aux Poisons Courants']"
+6;Brins devalériane;"[""Potion d'Amnésie""]"
+7;Ingrédient Standard;"[""Potion d'Amnésie"", 'Herbicide', ""Potion de l'Œil Vif"", 'Antidote aux Poisons Courants']"
+8;Œuf de Serpencendre;"[""Philtre d'amour""]"
+9;Poudre rouge sombre;"[""Philtre d'amour"", 'Engrais']"
+10;Poudre bleue;"[""Philtre d'amour"", 'Potion Oculus', 'Philtre de Paix']"
+11;Poudre jaune;"[""Philtre d'amour"", 'Potion de Ratatinage']"
+12;Poudre verte;"[""Philtre d'amour"", 'Remède contre les furoncles']"
+13;Écorce de wiggentree;"[""Antidote à un philtre d'amour""]"
+14;Huile de ricin;"[""Antidote à un philtre d'amour""]"
+15;Extrait de Ravegourde;"[""Antidote à un philtre d'amour""]"
+16;Potions;['Solution anti-Nargoles']
+17;Racine devalériane;"[""Philtre d'apathie"", 'Philtre de Mort Vivante']"
+18;Fève sopophorique;"[""Philtre d'apathie""]"
+19;Caramel au beurre;"[""Philtre d'apathie""]"
+20;Carapace debernard-l'ermite;"[""Philtre d'apathie""]"
+21;Apocyn;"[""Potion d'apocyn""]"
+22;Asclépiade tubéreuse;"[""Baume d'asclépiade tubéreuse""]"
+23;Aconit;['Potion de Babillage', 'Potion Wiggenweld']
+24;Ailes de fée;['Potion de beauté']
+25;Rosée du matin;['Potion de beauté']
+26;Pétales derose;['Potion de beauté']
+27;Alchémille;['Potion de beauté']
+28;Crin de licorne;['Potion de beauté']
+29;Racine degingembre;['Potion de beauté']
+30;Lavande;['Philtre Calmant', 'Potion crache-flammes']
+31;Cœur de crocodile;['Philtre Calmant']
+32;Menthe poivrée;"['Philtre Calmant', ""Élixir d'Euphorie""]"
+33;Œufs de Runespoor;['Élixir Cérébral de Baruffio']
+34;Champignon vénéneux sauteur;['Élixir Cérébral de Baruffio']
+35;Cerveau de grenouille;['Élixir Cérébral de Baruffio']
+36;Poudre de griffe de dragon;['Élixir Cérébral de Baruffio']
+37;Calice de la mort;['Breuvage de champignon mortel']
+38;Chiendent étoilé;['Baume de chiendent étoilé']
+39;Cranson officinal;"['Philtre de Confusion', ""Philtre d'Embrouille"", 'Philtre Revigorant']"
+40;Livèche;"['Philtre de Confusion', ""Philtre d'Embrouille"", 'Philtre Revigorant']"
+41;Achillée sternutatoire;"['Philtre de Confusion', ""Philtre d'Embrouille""]"
+42;Menthe;['Potion crache-flammes', 'Potion Wiggenweld']
+43;Brins deValériane;['Potion crache-flammes']
+44;Graine de feu;['Potion crache-flammes']
+45;Poudre decorne de dragon;['Potion crache-flammes']
+46;Alihotsy;['Goutte désopilante']
+47;Dictame;"['Essence de dictame', ""Mélange de poudre d'argent et de dictame"", 'Potion Wiggenweld']"
+48;Bandimon;['Doxycide']
+49;Foie de dragon;['Doxycide']
+50;Musard;['Doxycide']
+51;Essence de chassevache;['Doxycide']
+52;Essence de ciguë;['Doxycide']
+53;Teinture de tormentille;['Doxycide']
+54;dragon;['Poison de dragon']
+55;Troisplumes de paon;['Dragonfortant']
+56;Uneplume de hibou grand-duc;['Dragonfortant']
+57;Troisverrues de crapaud violet géant;['Dragonfortant']
+58;Yeux de poissons;"[""Potion d'Enflure""]"
+59;Orties séchées;"[""Potion d'Enflure"", 'Remède contre les furoncles']"
+60;Foies de chauve-souris;"[""Potion d'Enflure""]"
+61;Œil de Boullu;['Engrais']
+62;Bouse de dragon;"['Engrais', ""Mélange de bouse de dragon et d'engrais""]"
+63;Os;['Engrais', 'Potion de puissance']
+64;Alguesèche;['Engrais']
+65;Cervelle de paresseuxliquéfiée;['Engrais', 'Philtre de Mort Vivante']
+66;Hippocampes volants;['Engrais', 'Potion fortifiante']
+67;Liquide blanc;['Engrais', 'Philtre de Mort Vivante']
+68;Bouses de dragon;['Engrais']
+69;Mandragorecuite;['Engrais']
+70;Thorax de libellulegrillés en poudre;['Engrais', 'Potion fortifiante']
+71;Rates de rat;['Engrais', 'Potion de Ratatinage']
+72;Fèves sopophoriques;"[""Élixir d'Euphorie""]"
+73;Figues(ou enjus);"[""Élixir d'Euphorie""]"
+74;Épines de porc-épic(ou en poudre);"[""Élixir d'Euphorie"", 'Remède contre les furoncles']"
+75;Armoise(ou eninfusion);"[""Élixir d'Euphorie""]"
+76;Lewisie;['Potion exstimulo', 'Baume de lewisie brûlante']
+77;Sang de Re'em;['Potion exstimulo']
+78;Perce-neige;['Potion exstimulo']
+79;Poil degronian;['Potion exstimulo']
+80;Œufs de Serpencendre;['Felix Felicis']
+81;Raifort;['Felix Felicis']
+82;Bulbe de scille;['Felix Felicis']
+83;Tentacules de Murlap;['Felix Felicis']
+84;Alcoolature dethym;['Felix Felicis']
+85;Œuf d'Occamy;['Felix Felicis', 'Potion pour soins capillaires de Lockhart']
+86;Poudre deRuta;['Felix Felicis']
+87;Sang de salamandre;['Solution de Force', 'Potion Pare-feu', 'Potion Wiggenweld']
+88;Ongle de griffon;['Solution de Force']
+89;Aile de fée;['Potion fortifiante']
+90;Œufs de Doxy;['Potion fortifiante']
+91;Fromage;['Potions à base de fromage']
+92;Crochets de serpent(ou en poudre);['Remède contre les furoncles']
+93;Limaces à cornes;['Remède contre les furoncles']
+94;Mucus de Veracrasse;['Remède contre les furoncles', 'Herbicide', 'Philtre de Mort Vivante', 'Somnifère', 'Potion Wiggenweld']
+95;Liquide brun;['Remède contre les furoncles', 'Philtre de Paix']
+96;Jus de Horglup;['Herbicide', 'Potion Wiggenweld']
+97;Épines de poisson-diable;['Herbicide', 'Potion Wiggenweld']
+98;Queues de rat;['Potion à Hérisser les Cheveux']
+99;Champignons;['Infusion infecte']
+100;Plumes;['Infusion infecte']
+101;Éruptif;['Potion jaillissante']
+102;Gomas Barbadensis;['Potion capillaire Lissenplis']
+103;Cheveux de dragon asiatique;['Potion capillaire Lissenplis']
+104;Gelée de pétrole;['Potion capillaire Lissenplis']
+105;Pierre philosophale;['Élixir de longue vie']
+106;Mandragore;['Philtre régénérateur à la mandragore']
+107;Engrais;"[""Mélange de bouse de dragon et d'engrais""]"
+108;Plumes de Jobarbille(selonHPSPetAFE);['Potion de Mémoire']
+109;Perce-neige(selonHPSPetAFE);['Potion de Mémoire']
+110;Feuilles d'alihotsy(selonHPSP);['Potion de Mémoire']
+111;Menthe poivrée(selonHPSP);['Potion de Mémoire']
+112;Yeux d'anguille(selonHPSP);['Potion de Mémoire']
+113;Ragoût de mandragore(selonAFE);['Potion de Mémoire']
+114;Saugeen poudre(selonAFE);['Potion de Mémoire']
+115;Fèves sopophoriques(ou sous forme liquide);['Philtre de Mort Vivante']
+116;Asphodèle;['Philtre de Mort Vivante']
+117;Infusion d'armoise;['Philtre de Mort Vivante', 'Philtre de Mort Vivante', 'Potion Oculus']
+118;Crochets de serpenten poudre;['Philtre de Mort Vivante']
+119;Liquide violet;['Philtre de Mort Vivante']
+120;Poudre rose;['Philtre de Mort Vivante', 'Philtre de Paix', 'Antidote aux Poisons Courants']
+121;Poudre d'argent;"[""Mélange de poudre d'argent et de dictame""]"
+122;Corne de licorneen poudre;['Potion Oculus']
+123;Mandragorecuite liquéfiée;['Potion Oculus', 'Philtre de Paix', 'Antidote aux Poisons Courants', 'Potion Volubilis']
+124;Crochets de serpent;"[""Potion de l'Œil Vif""]"
+125;Dards séchés de Billywig;"[""Potion de l'Œil Vif""]"
+126;Tue-loup;"[""Potion de l'Œil Vif"", 'Potion Tue-loup']"
+127;Poudre depierre de lune;['Philtre de Paix']
+128;Sirop d'ellébore;['Philtre de Paix', 'Potion Volubilis']
+129;Vinaigre;['Panacée']
+130;Sel;['Panacée']
+131;Urine;['Panacée']
+132;Sal ammoniac;['Panacée']
+133;Soufre vif;['Panacée']
+134;Pâquerettes;['Baume de pâquerettes']
+135;Champignon explosif;['Potion Pare-feu']
+136;Poudre deChampignon à verrues;['Potion Pare-feu']
+137;Bézoard;['Antidote aux Poisons Courants']
+138;Corne de licorne;['Antidote aux Poisons Courants', 'Potion Wiggenweld']
+139;Hydromel;['Antidote aux Poisons Courants', 'Potion Volubilis']
+140;Menthe poivréeen poudre;['Antidote aux Poisons Courants', 'Potion Volubilis']
+141;Graines de feu;['Antidote des poisons rares']
+142;Dars de Billywig;['Antidote des poisons rares']
+143;Carapaces de Ciseburine;['Antidote des poisons rares']
+144;Corne de Grapcorne;['Antidote des poisons rares']
+145;Sangsues;['Polynectar', 'Potion de Ratatinage']
+146;Peau de serpent d'arbre du Cap;['Polynectar']
+147;Corne de bicorne en poudre;['Polynectar']
+148;Chrysopes cuites durant 21 jours;['Polynectar']
+149;Sisymbrecueilli à la pleine lune;['Polynectar']
+150;Touffes de Polygonum;['Polynectar']
+151;Élément du corps de la personne dont on souhaite prendre l'apparence;['Polynectar']
+152;Pipaillon de nuit;['Potion Potiron']
+153;Digitale;['Potion Potiron']
+154;Bulbe sauteur;['Potion Potiron']
+155;Cinqscarabées;['Poussos']
+156;Chou mordeur de Chine;['Poussos']
+157;Troisyeux de poisson-hérisson;['Poussos']
+158;Crochet de serpent;['Potion de puissance']
+159;Fleur à corne;['Potion de puissance']
+160;Raisin de couleuvre;['Poison de raisin de couleuvre']
+161;Chenilles;['Potion de Ratatinage']
+162;Jus de figue;['Potion de Ratatinage']
+163;Osd'un père;['Potion de régénération']
+164;Chair d'un serviteur;['Potion de régénération']
+165;Sangd'un ennemi;['Potion de régénération']
+166;Eau de miel;['Philtre Revigorant', 'Potion Wiggenweld']
+167;Infusion de verveine;['Philtre Revigorant']
+168;Sang-dragon;['Poison sang-dragon']
+169;Brin delavande;['Somnifère']
+170;Brin de valériane;['Somnifère']
+171;Ingrédient standard;['Somnifère']
+172;Ingrédients naturels;['Tolipan Blemish Blitzer']
+173;Griffes de dragon(formule spéciale);['Tolipan Blemish Blitzer']
+174;Trompette des anges;['Goutte de trompette des anges']
+175;Plume de Jobarbille;['Sérum de vérité']
+176;Crochet de Ciseburine;['Potion Wiggenweld']
+177;Écorce de sorbier;['Potion Wiggenweld']
+178;Extrait de dard de Billywig;['Potion Wiggenweld']
+179;Jus d'explobaies;['Potion Wiggenweld']
+180;Mandragorebouillie;['Potion Wiggenweld']
+181;Moly;['Potion Wiggenweld']
+182;Mucus decervelle de paresseux;['Potion Wiggenweld']
+183;Rosée de lune;['Potion Wiggenweld']
