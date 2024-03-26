@@ -4,3 +4,7 @@ Dans le cadre d'une matière d'IA symbolique à l'UTC, nous avons décider de r�
 Pour obtenir l'expertise suffisante sur le système de potions de la saga, nous avons écrit un script python afin de récupérer les caractéristiques des potions directement sur le site [Wiki Harry Potter](https://harrypotter.fandom.com/fr/wiki/Potions) et pouvoir construire notre base de donnée sur un fichier CSV. 
 
 Résultat : 18/20
+
+#Auteurs
+Alexis Deseure
+Colin Manyri
