@@ -6,5 +6,5 @@ Pour obtenir l'expertise suffisante sur le système de potions de la saga, nous 
 Résultat : 18/20
 
 # Auteurs
-Alexis Deseure
+Alexis Deseure <br>
 Colin Manyri
